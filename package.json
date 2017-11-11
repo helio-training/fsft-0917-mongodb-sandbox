@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "babel-preset-es2017": "^6.24.1",
-    "babel-preset-pundits": "^2.0.3"
+    "babel-preset-pundits": "^2.0.3",
+    "monk": "^6.0.5"
   }
 }
